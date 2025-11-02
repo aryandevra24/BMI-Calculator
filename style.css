@@ -1,0 +1,13 @@
+body {
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#result {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 125%;
+}

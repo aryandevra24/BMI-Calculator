@@ -34,7 +34,7 @@ Installation
 
 Clone the repository:
 
-git clone [https://github.com/YourUsername/bmi-calculator.git](https://github.com/YourUsername/bmi-calculator.git)
+git clone [https://github.com/aryandevra24/bmi-calculator.git](https://github.com/aryandevra24/bmi-calculator.git)
 cd bmi-calculator
 
 

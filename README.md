@@ -33,9 +33,10 @@ You only need a modern web browser to view and use the calculator.
 Installation
 
 Clone the repository:
-
+ ```bash
 git clone [https://github.com/aryandevra24/bmi-calculator.git](https://github.com/aryandevra24/bmi-calculator.git)
 cd bmi-calculator
+```
 
 
 Open the file:
@@ -54,6 +55,8 @@ Your calculated BMI score will appear below the buttons.
 📄 File Structure
 
 .
-├── index.html   # Main structure and user interface
-├── style.css    # Stylesheets for basic layout
+├── index.html   # Main structure and user
+interface
+├── style.css    # Stylesheets for basic
+layout
 └── script.js    # JavaScript logic for calculation and DOM manipulation

@@ -34,7 +34,8 @@ Installation
 
 Clone the repository:
  ```bash
-git clone [https://github.com/aryandevra24/bmi-calculator.git](https://github.com/aryandevra24/bmi-calculator.git)
+git clone https://github.com/aryandevra24/bmi-calculator.git
+
 cd bmi-calculator
 ```
 

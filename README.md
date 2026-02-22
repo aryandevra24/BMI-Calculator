@@ -68,4 +68,3 @@ Your calculated BMI score will appear below the buttons.
 ├── style.css    # Stylesheets for basic layout  
 └── script.js    # JavaScript logic for calculation and DOM manipulation
 
----
